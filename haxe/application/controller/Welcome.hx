@@ -4,7 +4,7 @@ package controller;
 import kohana.Controller;
 
 class Welcome extends Controller {
-    public function new(request: Dynamic, response: Dynamic) {
+    public function new(request : Dynamic, response : Dynamic) {
         super(request, response);
     }
 
