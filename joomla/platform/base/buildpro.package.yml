@@ -1,0 +1,8 @@
+---
+joomla.platfom.base.JAdapter: joomla/base/adapter.php
+joomla.platfom.base.JAdapterInstance: joomla/base/adapterinstance.php
+# joomla.platfom.base.JNode:
+joomla.platfom.base.JObject: joomla/object/object.php
+# joomla.platfom.base.JObservable:
+# joomla.platfom.base.JObserver:
+# joomla.platfom.base.JTree:
