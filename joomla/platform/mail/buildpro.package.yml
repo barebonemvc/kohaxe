@@ -1,0 +1,3 @@
+---
+joomla.platfom.mail.JMail: joomla/mail/mail.php
+joomla.platfom.mail.JMailHelper: joomla/mail/helper.php
