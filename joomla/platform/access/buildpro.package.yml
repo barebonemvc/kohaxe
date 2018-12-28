@@ -1,0 +1,4 @@
+---
+joomla.platfom.access.JAccess: joomla/access/access.php
+joomla.platfom.access.JAccessRule: joomla/access/rule.php
+joomla.platfom.access.JAccessRules: joomla/access/rules.php
