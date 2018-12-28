@@ -1,1 +1,9 @@
-
+---
+joomla.platfom.utilities.JArrayHelper: joomla/utilities/arrayhelper.php
+joomla.platfom.utilities.JBuffer: joomla/utilities/buffer.php
+joomla.platfom.utilities.JDate: joomla/date/date.php
+# joomla.platfom.utilities.JSimpleCrypt:
+# joomla.platfom.utilities.JSimpleXML:
+# joomla.platfom.utilities.JSimpleXMLElement:
+joomla.platfom.utilities.JUtility: joomla/utilities/utility.php
+joomla.platfom.utilities.JXMLElement: legacy/utilities/xmlelement.php
