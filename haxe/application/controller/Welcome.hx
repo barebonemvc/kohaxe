@@ -3,6 +3,7 @@ package controller;
 
 import kohana.Controller;
 
+@:native('Controller_Welcome')
 class Welcome extends Controller {
     public function new(request : Dynamic, response : Dynamic) {
         super(request, response);
